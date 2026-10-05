@@ -18,7 +18,7 @@ Interface Responsiva: Adaptada para navegação em dispositivos móveis e deskto
 
 Exibição do Capítulo Atual: Acompanhamento visual da faixa e capítulo em execução.
 
-🛠️ Tecnologias Utilizadas
+ Tecnologias Utilizadas
 
 HTML5: Estruturação dos elementos da página e player de áudio nativo.
 
@@ -36,7 +36,7 @@ audiobook-dom-casmurro/
 └── style.css          # Estilização e layout da interface
 
 
-🔧 Como Executar o Projeto
+ Como Executar o Projeto
 
 Clonar o Repositório:
 
